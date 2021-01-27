@@ -50,7 +50,7 @@ h5{
     -ms-flex-negative: 0;
     flex-shrink: 0;
     width: 50%;
-    padding-bottom: 2em;
+    padding-bottom: 3em;
 }
 .img-container img, .img-container1 img{
     width: 100%;
