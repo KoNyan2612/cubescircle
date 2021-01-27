@@ -120,6 +120,20 @@ background: #243240;
 border-radius: 5px;
 content: "";
 }
+.slick-prev,
+.slick-next {
+  width: auto !important;
+  height: 30px !important;
+  background: none !important;
+  color:#243240!important;
+  z-index: 2;
+}
+
+.slick-prev:hover,
+.slick-next:hover {
+  fill: #5680e9;
+}
+
 .image img{
     width: 50%;
 }
