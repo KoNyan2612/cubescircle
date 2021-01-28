@@ -1,5 +1,5 @@
 html {
-    scroll-padding-top: 70px; /* height of sticky header */
+
     scroll-behavior: smooth;
 }
 body{
@@ -183,16 +183,16 @@ footer>div{
 }
 .contact-content{
     display: block;
-    padding-top: 60px!important; 
-    margin-top: -60px!important;
+    padding-top: 110px!important; 
+    margin-top: -110px!important;
 }
 #about-us{
     display: block;
-    padding-top: 60px!important; 
-    margin-top: -60px!important;
+    padding-top: 110px!important; 
+    margin-top: -110px!important;
 }
 #team-members{
     display: block;
-    padding-top: 60px!important; 
-    margin-top: -60px!important;
+    padding-top: 110px!important; 
+    margin-top: -110px!important;
 }
