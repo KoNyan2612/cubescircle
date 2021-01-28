@@ -133,7 +133,7 @@ content: "";
   fill: #5680e9;
 }
 .image img{
-    width: 50%;
+    max-width: 50%;
 }
 .contact-content{
     display: grid;
@@ -163,7 +163,7 @@ footer>div{
     flex-direction: column-reverse;
 }
 .image img{
-    width: 15%;
+    max-width: 15%;
 }
 .image{
     padding-bottom: 1em;
