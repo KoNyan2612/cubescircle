@@ -53,7 +53,8 @@ h5{
     padding-bottom: 3em;
 }
 .img-container img, .img-container1 img{
-    width: 100%;
+    height: auto;
+    max-height: 100px;
 }
 .img-container, .img-container1{
     position: relative;
@@ -133,6 +134,7 @@ content: "";
   fill: #5680e9;
 }
 .image img{
+    max-height: 100%;
     max-width: 50%;
 }
 .contact-content{
@@ -163,7 +165,8 @@ footer>div{
     flex-direction: column-reverse;
 }
 .image img{
-    max-width: 15%;
+    height: auto;
+    max-height: 100px;    
 }
 .image{
     padding-bottom: 1em;
