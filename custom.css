@@ -155,9 +155,6 @@ footer>div{
     footer>div{
         justify-content: center;
     }
-    .pl-2{
-        padding-left: 20px!important;
-    }
   }
 
 @media only screen and (max-width: 767px) {
