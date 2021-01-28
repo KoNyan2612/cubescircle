@@ -134,8 +134,8 @@ content: "";
   fill: #5680e9;
 }
 .image img{
-    max-height: 100%;
-    max-width: 50%;
+    height: auto;
+    max-height: 100px;  
 }
 .contact-content{
     display: grid;
