@@ -128,12 +128,10 @@ content: "";
   color:#243240!important;
   z-index: 2;
 }
-
 .slick-prev:hover,
 .slick-next:hover {
   fill: #5680e9;
 }
-
 .image img{
     width: 50%;
 }
@@ -155,7 +153,7 @@ footer>div{
     footer>div{
         justify-content: center;
     }
-  }
+}
 
 @media only screen and (max-width: 767px) {
 .first .text, .second .text{
