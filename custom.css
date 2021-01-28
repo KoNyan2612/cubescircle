@@ -53,8 +53,7 @@ h5{
     padding-bottom: 3em;
 }
 .img-container img, .img-container1 img{
-    height: auto;
-    max-height: 100px;
+    width: 100%;
 }
 .img-container, .img-container1{
     position: relative;
@@ -154,6 +153,10 @@ footer>div{
     }
     footer>div{
         justify-content: center;
+    }
+    .image img{
+        height: auto;
+        max-height: 90px;    
     }
 }
 
