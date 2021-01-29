@@ -1,6 +1,6 @@
 html {
-
-    scroll-behavior: smooth;
+    /* scroll-padding-top: 70px; height of sticky header */
+    scroll-behavior: smooth!important;
 }
 #about-us{
   padding-top: 152px;
@@ -16,6 +16,18 @@ body{
     color: #838383;
     font-family: 'Playfair Display', serif;
     line-height: 1.9em;
+}
+#about-us{
+    padding-top: 5em;
+    margin-top: -5em;
+}
+#team-members{
+    padding-top: 5em;
+    margin-top: -5em;
+}
+#contact-us{
+    padding-top: 5em;
+    margin-top: -5em;
 }
 h1{
     font-size: 3.5em!important;
