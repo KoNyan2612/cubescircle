@@ -2,14 +2,6 @@ html {
     /* scroll-padding-top: 70px; height of sticky header */
     scroll-behavior: smooth!important;
 }
-#about-us{
-  padding-top: 152px;
-  margin-top: -152px;
-}
-#team-members{
-    padding-top: 70px!important;
-    margin-top: -70px!important;
-  }
 body{
     padding: 0;
     margin: 0;
